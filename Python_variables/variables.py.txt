@@ -1,7 +1,0 @@
-name = "Ali"         # String variable
-age = 25             # Integer variable
-height = 5.9         # Float variable
-
-print("Name:", name)
-print("Age:", age)
-print("Height:", height)
